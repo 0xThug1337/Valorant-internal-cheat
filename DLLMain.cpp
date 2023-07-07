@@ -38,7 +38,7 @@ static FLinearColor test_color{ 2.093f, 0.019f, 20.0f, 5.9f };
 static FLinearColor MainESPColor{ 2.093f, 0.019f, 20.0f, 5.9f };
 static FLinearColor behind_wall_color = RGBtoFLC(255, 255, 255);
 static FLinearColor visible_color = RGBtoFLC(0, 255, 0);
-static FLinearColor circlecol = RGBtoFLC(0, 255, 0);
+static FLinearColor circlecol = RGBtoFLC(0, 0, 0);
 static bool menu_opened = false;
 FVector2D pos = { 100,100 };
 
